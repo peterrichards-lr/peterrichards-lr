@@ -1,6 +1,6 @@
 # Hi there, I'm Peter 👋 
 
-### Software Engineer @ Liferay
+### Senior Inside Sales Engineer @ Liferay
 Digital professional focused on building enterprise-grade solutions, scalable architectures, and contributing to the Liferay ecosystem.
 
 ---
